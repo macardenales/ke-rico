@@ -1,2 +1,4 @@
 # ke-rico
-New to learn programing
+To learn programing
+
+I am learning programming as a hobby
